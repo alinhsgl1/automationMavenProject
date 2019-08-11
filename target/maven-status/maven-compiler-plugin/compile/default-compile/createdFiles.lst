@@ -1,0 +1,10 @@
+com\page1\pageobjects\LoginPage.class
+com\page1\pageobjects\TasksPage.class
+com\page1\pageobjects\ForgotPasswordPage.class
+com\page1\pageobjects\LoginFailedPage.class
+com\page1\pageobjects\NewTaskPage.class
+my_qa4\my_qa4\App.class
+com\page1\pageobjects\LoginSucceedPage.class
+com\page1\pageobjects\MyFormsPage.class
+com\page1\pageobjects\SearchPage.class
+com\page1\pageobjects\BasePage.class

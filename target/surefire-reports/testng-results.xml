@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="8724" started-at="2019-08-10T09:31:20Z" finished-at="2019-08-10T09:31:28Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="8724" started-at="2019-08-10T09:31:20Z" finished-at="2019-08-10T09:31:28Z">
+      <class name="eply.com.tests.ForgotPasswordTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:eply.com.tests.ForgotPasswordTest@3567135c]" name="setup" is-config="true" duration-ms="4670" started-at="2019-08-10T09:31:20Z" finished-at="2019-08-10T09:31:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="forgotPasswordTest()[pri:0, instance:eply.com.tests.ForgotPasswordTest@3567135c]" name="forgotPasswordTest" duration-ms="3389" started-at="2019-08-10T09:31:24Z" finished-at="2019-08-10T09:31:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forgotPasswordTest -->
+        <test-method status="PASS" signature="tearDrown()[pri:0, instance:eply.com.tests.ForgotPasswordTest@3567135c]" name="tearDrown" is-config="true" duration-ms="638" started-at="2019-08-10T09:31:28Z" finished-at="2019-08-10T09:31:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDrown -->
+      </class> <!-- eply.com.tests.ForgotPasswordTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
